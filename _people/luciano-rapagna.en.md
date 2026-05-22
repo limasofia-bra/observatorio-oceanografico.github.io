@@ -9,7 +9,7 @@ role: "Biologist · Postdoctoral Researcher"
 affiliation: "Graduation program in Ocean and Earth Dynamics (PPG-DOT)"
 affiliation_url: "https://ppgdot-uff.com.br/"
 
-avatar: "/assets/img/people/luciano-rapagna.jpg"
+avatar: "/assets/img/equipe/luciano-rapagna.jpg"
 
 email: "lucianorapagna@id.uff.br"
 orcid: "0000-0002-9009-4463"
