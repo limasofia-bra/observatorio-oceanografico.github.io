@@ -24,9 +24,9 @@ slug: yan-antunes
 
 👋 **Olá, eu sou Yan Antunes** 
 
-🎓 Estudante de Engenharia Agrícola e Ambiental na Universidade Federal Fluminense 
-🌱 Interessado em tecnologia, meio ambiente e análise de dados 
-📚 Iniciação Científica em andamento 
+🎓 Estudante de Engenharia Agrícola e Ambiental na Universidade Federal Fluminense
+🌱 Interessado em tecnologia, meio ambiente e análise de dados
+📚 Iniciação Científica em andamento
 🐍 Aprendendo Python • Ciência de Dados • Modelagem Ambiental 
 
 Atualmente curso Engenharia Agrícola e Ambiental na UFF e estou iniciando minha trajetória na área de pesquisa científica, buscando desenvolver conhecimentos em análise de dados, modelagem ambiental e ferramentas computacionais aplicadas à engenharia. 
