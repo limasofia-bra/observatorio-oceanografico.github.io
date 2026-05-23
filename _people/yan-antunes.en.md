@@ -24,9 +24,9 @@ slug: yan-antunes
 
 👋 **Hi, I'm Yan Antunes**
 
-🎓 Agricultural and Environmental Engineering Student at Universidade Federal Fluminense (UFF)
-🌱 Interested in technology, environment, and data analysis
-📚 Ongoing Undergraduate Research
+🎓 Agricultural and Environmental Engineering Student at Universidade Federal Fluminense (UFF)  
+🌱 Interested in technology, environment, and data analysis  
+📚 Ongoing Undergraduate Research  
 🐍 Learning Python • Data Science • Environmental Modeling
 
 I am currently studying Agricultural and Environmental Engineering at UFF and starting my journey in scientific research, aiming to develop skills in data analysis, environmental modeling, and computational tools applied to engineering.
