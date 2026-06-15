@@ -17,7 +17,7 @@ orcid: "0000-0003-4155-2373"
 lattes: "http://lattes.cnpq.br/7781536039271939"
 
 location: "Rio de Janeiro, RJ"
-order: 6
+order: 7
 slug: bernardo-chede
 ---
 
