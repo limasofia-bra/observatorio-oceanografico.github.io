@@ -29,8 +29,8 @@ Currently, as an Undergraduate Research Fellow, I am conducting research focused
 
 In my free time, surfing and the ocean are my greatest passions, whether I am practicing the sport or simply following it 🏄. I also enjoy spending time at home with my dog, Caramelo 🐾, and my family. Whenever possible, I like to use my free time to watch TV series and anime, play video games, and study topics that interest me 📚.
 
-You can find some of my projects on my GitHub 💻.
+You can find some of my projects on my [github](https://github.com/Schimidel) 💻.
 
-Feel free to connect with me on LinkedIn 🤝.
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/gabriel-schimidel-1337a8255/) 🤝.
 
-You can also follow my research and publications on ResearchGate 📝.
+You can also follow my research and publications on [ResearchGate](https://www.researchgate.net/profile/Gabriel-Ramos-De-Oliveira?ev=hdr_xprf) 📝.
