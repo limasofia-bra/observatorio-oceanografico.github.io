@@ -9,7 +9,7 @@ role: "Extension Scholar - Ocean Literacy"
 affiliation: "Observatório Oceanográfico"
 affiliation_url: "https://observatoriooceanografico.org"
 
-avatar: "/assets/img/equipe/female.png"
+avatar: "/assets/img/equipe/IMG_Sofia.jpg"
 
 email: "lima_sofia@id.uff.br"
 github: "https://github.com/limasofia-bra"
